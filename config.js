@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerHanz !Jangan chat owner kl gk perlu!'
+global.nameowner = 'OwnerHanz !Jangan chat owner kl gk perlu!!'
 global.numberowner = '6285779150501'
 global.instagram = 'https://instagram.com/rangga_botz'
 global.github = 'https://github.com/HanzBotzz'
